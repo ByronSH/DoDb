@@ -1,2 +1,2 @@
 # DoDb - Matrix
-AI npc social system
+An AI NPC social interaction system
